@@ -63,8 +63,6 @@
 
 
 
-
-
      class asteroid
      {
           public static void main(String args[])
