@@ -43,7 +43,7 @@ class Solution {
 }
 
 
-class main
+class cipher
      {
 
           // LeetCode no:2075 , april 4,2026
