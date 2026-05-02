@@ -63,7 +63,7 @@ class Solution {
 }
 
 
-class leetC_788
+class leetC_788        // LeetCode question no : 788  // okay  // codestorywihtmik
      {
 
           public static void main(String args[])
